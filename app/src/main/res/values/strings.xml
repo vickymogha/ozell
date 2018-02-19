@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OzellCooner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="color_theory_text1">UNDERSTAND THE RELATIONSHIPS BETWEEN COLORS</string>
+    <string name="color_theory_text2">AND SEE YOU\'LL BE MORE CONFIDENT WHILE SELECTING THEM FOR YOUR HOME</string>
+
+    <string name="heading_selecting_the">SELECTING  </string>
+    <string name="heading_the_right">The RIGHT</string>
+    <string name="heading_sheen">SHEEN</string>
+    <string name="sheen_text1">COLOR ISN\'T THE CONSIDERTAION WHEN PLANNING PAINT PROJECT.</string>
+    <string name="sheen_text2">THE SHEEN YOU CHOOSE WILL DETERMINE HOW VIVID DETAIL APPEAR AND HOW EASY THE SURFACE WILL BE TO CLEAN</string>
+</resources>
